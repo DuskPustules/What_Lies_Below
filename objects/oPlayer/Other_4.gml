@@ -1,0 +1,2 @@
+checkPointPassed = false;
+checkPointPosition = [];

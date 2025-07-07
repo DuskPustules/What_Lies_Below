@@ -1,0 +1,1 @@
+swapCooldown = 20;

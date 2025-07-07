@@ -1,0 +1,1 @@
+attackTrigger = false

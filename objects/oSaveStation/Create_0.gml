@@ -1,0 +1,2 @@
+arrowCreated = false;
+arrowDestroyed = true;

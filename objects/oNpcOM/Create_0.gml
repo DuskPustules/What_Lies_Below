@@ -1,0 +1,2 @@
+dialogueOM = false;
+arrowCreated = false;
